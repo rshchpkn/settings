@@ -1,1 +1,13 @@
-<code_scheme name="Anton" version="173" />
+<code_scheme name="Anton" version="173">
+  <HTMLCodeStyleSettings>
+    <option name="HTML_NEWLINE_BEFORE_FIRST_ATTRIBUTE" value="When multiline" />
+    <option name="HTML_NEWLINE_AFTER_LAST_ATTRIBUTE" value="When multiline" />
+  </HTMLCodeStyleSettings>
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
