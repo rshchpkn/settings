@@ -14,4 +14,7 @@
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings language="TypeScript">
+    <option name="SPACE_WITHIN_BRACKETS" value="true" />
+  </codeStyleSettings>
 </code_scheme>
